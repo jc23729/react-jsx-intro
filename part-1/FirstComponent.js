@@ -11,4 +11,4 @@ function App() {
     );
   }
 
-ReactDOM.render(<firstComponent/>, document.getElementById("root"))
+ReactDOM.render(<App />, document.getElementById("root"))
